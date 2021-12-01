@@ -3,13 +3,14 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class One {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         String file = readFile("one.txt");
         String[] lines = file.split("\n");
         Integer[] nums = new Integer[lines.length];
         for(int i=0; i<lines.length; i++) {
             nums[i] = Integer.parseInt(lines[i]);
         }
+
         // A
         int cntA = 0;
         for(int i =0; i < lines.length - 1; i++){
@@ -31,23 +32,21 @@ public class One {
         System.out.println("CountB: " + cntB);
     }
 
-    private static String readFile(String inputFile) {
+    private static String readFile(String inputFile) throws IOException {
 
-        StringBuffer buffer=new StringBuffer();
-        try {  
-            BufferedReader reader=new BufferedReader(new FileReader(inputFile));   
+        StringBuffer buffer = new StringBuffer();
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile));
+        try{
             String line;
-
             while ((line = reader.readLine()) != null) {
-                buffer.append(line);
-                buffer.append("\n");  
+                buffer.append(line + "\n");
             } 
-            reader.close();
         }
         catch(IOException e) {  
             e.printStackTrace(); 
-        } 
+        } finally {
+            reader.close();
+        }
         return buffer.toString();
-
     }
 }
