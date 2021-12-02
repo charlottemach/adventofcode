@@ -5,3 +5,7 @@ __pycache__/
 
 # Java
 *.class
+
+# Haskell
+*.hi
+*.o
