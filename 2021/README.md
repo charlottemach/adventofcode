@@ -5,3 +5,5 @@ Attempting a new language every day.
 Day 1: Java
 
 Day 2: Haskell
+
+Day 3: Clojure
