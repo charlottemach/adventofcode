@@ -17,3 +17,8 @@ Day 4: R
 Day 5: Kotlin
 ```kotlinc five.kt && kotlin FiveKt```
 
+Day 6: SML
+```sml six.sml```
+
+Day 7: Golang
+```go run seven.go```
