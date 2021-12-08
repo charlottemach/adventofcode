@@ -22,3 +22,6 @@ Day 6: SML
 
 Day 7: Golang
 ```go run seven.go```
+
+Day 8: Crystal
+```crystal eigth.cr```
