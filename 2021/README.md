@@ -25,3 +25,6 @@ Day 7: Golang
 
 Day 8: Crystal
 ```crystal eigth.cr```
+
+Day 9: Scala
+```scalac Nine.scala && scala Nine```
