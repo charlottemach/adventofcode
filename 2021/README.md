@@ -28,3 +28,6 @@ Day 8: Crystal
 
 Day 9: Scala
 ```scalac Nine.scala && scala Nine```
+
+Day 10: Ruby
+```ruby ten.rb```
