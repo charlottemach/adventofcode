@@ -31,3 +31,6 @@ Day 9: Scala
 
 Day 10: Ruby
 ```ruby ten.rb```
+
+Day 11: Julia
+```julia eleven.jl```
