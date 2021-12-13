@@ -34,3 +34,7 @@ Day 10: Ruby
 
 Day 11: Julia
 ```julia eleven.jl```
+
+Day 12: Python
+```python twelve.py | wc -l```
+
