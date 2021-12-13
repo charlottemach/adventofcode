@@ -39,4 +39,4 @@ Day 12: Python
 ```python twelve.py | wc -l```
 
 Day 13: AWK
-```awk -f thirteen.awk```
+```gawk -f thirteen.awk```
