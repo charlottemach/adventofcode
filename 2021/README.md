@@ -40,3 +40,6 @@ Day 12: Python
 
 Day 13: AWK
 ```gawk -f thirteen.awk```
+
+Day 14: PHP
+```php fourteen.php```
