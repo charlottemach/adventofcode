@@ -46,3 +46,6 @@ Day 14: PHP
 
 Day 15: D
 ```rdmd fifteen.d```
+
+Day 16: OCaml - Part I
+```ocaml sixteen.ml```
