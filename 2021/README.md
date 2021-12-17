@@ -49,3 +49,6 @@ Day 15: D
 
 Day 16: OCaml - Part I
 ```ocaml sixteen.ml```
+
+Day 17: C
+```gcc -o seventeen seventeen.c && ./seventeen```
