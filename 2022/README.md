@@ -6,8 +6,10 @@ Attempting a different language every day .. again.
 
 ```docker build -t one one/ && docker container run -it --rm one```
 
-or ```kotlinc one.kt && kotlin OneKt```
-
 ### Day 2 - Rust
 
 ```docker build -t two two/ && docker container run -it --rm two```
+
+### Day 3 - Racket
+
+```docker build -t three three/ && docker container run -it --rm three```
