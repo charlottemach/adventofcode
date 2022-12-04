@@ -1,15 +1,13 @@
 # AoC 2022
 
-Attempting a different language every day .. again.
+Attempting a different language every day ... again.
 
-### Day 1 - Kotlin
+Each day can be run using
+```docker build -t <day> <day>/ && docker container run -it --rm <day>```
 
-```docker build -t one one/ && docker container run -it --rm one```
+E.g. ```docker build -t one one/ && docker container run -it --rm one```
 
-### Day 2 - Rust
-
-```docker build -t two two/ && docker container run -it --rm two```
-
-### Day 3 - Racket
-
-```docker build -t three three/ && docker container run -it --rm three```
+* 1 - Kotlin
+* 2 - Rust
+* 3 - Racket
+* 4 - PHP
