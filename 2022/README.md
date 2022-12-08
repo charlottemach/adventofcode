@@ -14,3 +14,4 @@ E.g. ```docker build -t one one/ && docker container run -it --rm one```
 * 5 - Erlang
 * 6 - C++
 * 7 - Julia
+* 8 - R
