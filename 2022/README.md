@@ -15,3 +15,4 @@ E.g. ```docker build -t one one/ && docker container run -it --rm one```
 * 6 - C++
 * 7 - Julia
 * 8 - R
+* 9 - Nim
