@@ -7,12 +7,13 @@ Each day can be run using
 
 E.g. ```docker build -t one one/ && docker container run -it --rm one```
 
-* 1 - Kotlin
-* 2 - Rust
-* 3 - Racket
-* 4 - PHP
-* 5 - Erlang
-* 6 - C++
-* 7 - Julia
-* 8 - R
-* 9 - Nim
+* 01 - Kotlin
+* 02 - Rust
+* 03 - Racket
+* 04 - PHP
+* 05 - Erlang
+* 06 - C++
+* 07 - Julia
+* 08 - R
+* 09 - Nim
+* 10 - Haskell
