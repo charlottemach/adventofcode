@@ -21,3 +21,4 @@ E.g. ```docker build -t one one/ && docker container run -it --rm one```
 * 12 - D
 * 13 - Python
 * 14 - Vala
+* 15 - Scala
