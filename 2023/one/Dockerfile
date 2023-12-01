@@ -3,7 +3,7 @@ FROM clojure:temurin-8-lein-2.10.0-bullseye-slim
 RUN lein new app one
 WORKDIR one/src/one
 
-COPY one.txt one.txt
+COPY input.txt input.txt
 COPY one.clj core.clj
 
 RUN lein deps

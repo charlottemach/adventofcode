@@ -34,7 +34,7 @@
 
 (defn -main
   [& args]
-(with-open [r (clojure.java.io/reader "one.txt")]
+(with-open [r (clojure.java.io/reader "input.txt")]
   (let [data (line-seq r)]
      (prn (str "A: " (a data)))
      (prn (str "B: " (b data)))
