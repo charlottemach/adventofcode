@@ -2,9 +2,9 @@
 
 Attempting a different language every day again ... and again.
 
-Each day can be run by adding the input as <day>.txt into the <day> folder and then using
-```docker build -t <day> <day>/ && docker container run -it --rm <day>```
+Each day can be run by adding the input as input.txt into the <day> folder and then running
+```run.sh <day>```
 
-E.g. ```docker build -t one one/ && docker container run -it --rm one```
+E.g. ```run.sh one```
 
 * 01 - Clojure
