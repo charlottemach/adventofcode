@@ -11,3 +11,4 @@ E.g. ```run.sh one```
 * 02 - Dart
 * 03 - Raku
 * 04 - Erlang
+* 05 - Swift
