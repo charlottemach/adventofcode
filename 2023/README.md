@@ -12,3 +12,4 @@ E.g. ```run.sh one```
 * 03 - Raku
 * 04 - Erlang
 * 05 - Swift
+* 06 - OCaml
