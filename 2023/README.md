@@ -3,9 +3,9 @@
 Attempting a different language every day again ... and again.
 
 Each day can be run by adding the input as input.txt into the <day> folder and then running
-```run.sh <day>```
+```./run.sh <day>```
 
-E.g. ```run.sh one```
+E.g. ```./run.sh one```
 
 * 01 - Clojure
 * 02 - Dart
@@ -13,3 +13,4 @@ E.g. ```run.sh one```
 * 04 - Erlang
 * 05 - Swift
 * 06 - OCaml
+* 07 - Groovy
