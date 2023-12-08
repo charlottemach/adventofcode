@@ -14,3 +14,4 @@ E.g. ```./run.sh one```
 * 05 - Swift
 * 06 - OCaml
 * 07 - Groovy
+* 08 - Crystal
