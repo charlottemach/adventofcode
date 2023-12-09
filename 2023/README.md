@@ -15,3 +15,4 @@ E.g. ```./run.sh one```
 * 06 - OCaml
 * 07 - Groovy
 * 08 - Crystal
+* 09 - Elixir
