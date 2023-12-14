@@ -18,3 +18,5 @@ E.g. ```./run.sh one```
 * 09 - Elixir
 * 10 - Haxe
 * 11 - Kotlin
+* 12
+* 13 - D
