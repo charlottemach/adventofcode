@@ -66,6 +66,7 @@ readMatrix <- function(f) {
         }
         x <- x + 1
     }
+    close(conn)
     return(mat)
 }
 
