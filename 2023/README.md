@@ -22,3 +22,4 @@ E.g. ```./run.sh 1```
 * 13 - D
 * 14 - R
 * 15 - Haskell
+* 16 - Julia
