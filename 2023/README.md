@@ -18,7 +18,7 @@ E.g. ```./run.sh 1```
 * 09 - Elixir
 * 10 - Haxe
 * 11 - Kotlin
-* 12
+* 12 - Javascript
 * 13 - D
 * 14 - R
 * 15 - Haskell
