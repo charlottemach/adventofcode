@@ -10,3 +10,4 @@ E.g. ```./run.sh 1```
 * 01 - Erlang
 * 02 - Nim
 * 03 - Crystal
+* 04 - R
