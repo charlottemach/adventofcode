@@ -12,3 +12,4 @@ E.g. ```./run.sh 1```
 * 03 - Crystal
 * 04 - R
 * 05 - Raku
+* 06 - D
