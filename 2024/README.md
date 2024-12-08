@@ -14,3 +14,4 @@ E.g. ```./run.sh 1```
 * 05 - Raku
 * 06 - D
 * 07 - Clojure
+* 08 - Julia
