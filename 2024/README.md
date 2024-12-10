@@ -15,3 +15,5 @@ E.g. ```./run.sh 1```
 * 06 - D
 * 07 - Clojure
 * 08 - Julia
+* 09
+* 10 - Haxe
