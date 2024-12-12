@@ -18,3 +18,4 @@ E.g. ```./run.sh 1```
 * 09
 * 10 - Haxe
 * 11 - Elixir
+* 12 - Swift
