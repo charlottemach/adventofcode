@@ -22,3 +22,5 @@ E.g. ```./run.sh 1```
 * 13 - Groovy
 * 14 - Kotlin
 * 15 - PHP
+* 16
+* 17 - Haskell
