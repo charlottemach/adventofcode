@@ -24,3 +24,5 @@ E.g. ```./run.sh 1```
 * 15 - PHP
 * 16
 * 17 - Haskell
+* 18
+* 19 - OCaml
