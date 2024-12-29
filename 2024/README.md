@@ -26,3 +26,4 @@ E.g. ```./run.sh 1```
 * 17 - Haskell
 * 18 - Rust
 * 19 - OCaml
+* 20 - Vala
