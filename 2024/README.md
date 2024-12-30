@@ -30,3 +30,4 @@ E.g. ```./run.sh 1```
 * 21
 * 22 - Scala
 * 23 - Perl
+* 24 - JavaScript
