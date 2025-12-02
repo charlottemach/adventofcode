@@ -8,3 +8,4 @@ Each day can be run by adding the input as input.txt into the <day> folder and t
 E.g. ```./run.sh 1```
 
 * 01 - Crystal
+* 02 - Elixir
